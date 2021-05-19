@@ -4,7 +4,12 @@
 -eventuell Helligkeit der Hände normalisieren
 
 
-# Fürn Chef:
--Kriterien für leaderboard (accuracy? train dauer?)
--Tipps fürs Tunen vom Network (herzeigen)
--Wie hättens denn gern des Model gspeichert? 
+speicher unter pytorch:
+Klasse die Model baut.
+Klasse hat funktion zum Speicher und Laden von Modellen
+
+mit scikit andere methode ausprobieren
+
+pytorch initializer müssen zur activation funktion passen. (Also weights richtig initialisieren).
+
+Grid basierte Parameterfindung okay
